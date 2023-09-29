@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.button a{ 
+    text-decoration: none;
+    color: white;
+
+}
+.button a:hover{
+    color: blue;
+}
+.main{
+    width: 100%;
+}
+.logo_button{
+    background-image: url(/image-hero.jpg);
+    /* background-position: center; */
+    background-size: 100% 100%;
+}
+.bu{
+    padding:1% ;
+}
+.main{
+    width: 100%;
+    
+}
+
+.all_img{
+    height: 350px;
+    margin-top: .5%;
+}
+.all_img_1{
+    background-image: url(image-deep-earth.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_2{
+    background-image: url(image-night-arcade.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_3{
+    background-image: url(image-soccer-team.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_4{
+    background-image: url(image-grid.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_5{
+    background-image: url(image-from-above.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_6{
+    background-image: url(image-pocket-borealis.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_7{
+    background-image: url(image-curiosity.jpg);
+    background-repeat: no-repeat;
+
+}
+.all_img_8{
+    background-image: url(image-fisheye.jpg);
+    background-repeat: no-repeat;
+
+}    
+.food a{
+    text-decoration: none ;
+    margin: 0.5%;
+    color: aliceblue;
+
+}
+.food a:hover{
+    color: blue;
+}
+.fooderme{
+    height: 100px;
+}
