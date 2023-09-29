@@ -15,7 +15,7 @@
     width: 100%;
 }
 .logo_button{
-    background-image: url(/image-hero.jpg);
+    background-image: url(image-hero.jpg);
     /* background-position: center; */
     background-size: 100% 100%;
 }
